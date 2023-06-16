@@ -1,3 +1,5 @@
 
 Hi , Git
-we are going to release git 
+we are going to release git
+
+mergeing the file into main  
